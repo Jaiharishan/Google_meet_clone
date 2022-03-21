@@ -1,0 +1,17 @@
+.topbar {
+  width: 100%;
+  height: 10vh;
+}
+.main-screen {
+  width: 100%;
+  height: 80vh;
+  background: #202124;
+}
+
+.wrapper {
+  width: 100%;
+}
+
+.footer {
+  height: 10vh;
+}
